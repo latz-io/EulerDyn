@@ -1,4 +1,4 @@
-This repository contains clean versions of the code used for the numerical experiments in the manuscript
+This repository contains clean versions of the MATLAB code used for the numerical experiments in the manuscript.
 
 Jonas Latz (2024): The random timestep Euler method and its continuous dynamics, arXiv:2408.01409.
 
